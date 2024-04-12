@@ -3,5 +3,5 @@ import CartMain from './components/CartMain.vue'
 </script>
 
 <template>
-  <CartMain />
+  <CartMain safe-area-inset-bottom />
 </template>

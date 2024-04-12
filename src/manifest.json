@@ -1,5 +1,5 @@
 {
-  "name": "小兔鲜儿",
+  "name": "goshopping",
   "appid": "",
   "description": "",
   "versionName": "1.0.0",
@@ -48,9 +48,15 @@
   },
   /* 快应用特有相关 */
   "quickapp": {},
+  // 网页端特有配置
+  "h5": {
+    "router": {
+      "base": "./ "
+    }
+  },
   /* 小程序特有相关 */
   "mp-weixin": {
-    "appid": "",
+    "appid": "wx40865b2efbd9c345",
     "setting": {
       "urlCheck": false
     },
